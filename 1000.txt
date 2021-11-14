@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 git commit -m commit3
+=======
+>>>>>>> parent of b10962d (commit2)
